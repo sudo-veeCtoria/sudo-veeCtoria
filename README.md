@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner estilo terminal - roxo escuro -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:170027,100:6a0dad&height=200&section=header&text=whoami%20==%20sudo-veeCtoria&fontSize=36&fontColor=b388ff&animation=fadeIn&desc=connecting%20to%20the%20wired...&descAlignY=75&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:170027,100:6a0dad&height=200&section=header&text=%20Hi+guys,+Im+Veec+^^&fontSize=36&fontColor=b388ff&animation=fadeIn&desc=connecting%20to%20the%20server...&descAlignY=75&descSize=16" width="100%"/>
 
 <!-- Efeito de digitação (typing animation) - frases da Lain -->
 <a href="https://github.com/sudo-veeCtoria">
@@ -22,15 +22,15 @@
 - estudante de Ciencia e Tecnologia na UFSC (Universidade Federal de SC) 
 - focada em programação e segurança ofensiva(red team)
 
-### `> stack --list`
+### `> I code with`
  
 <div align="center">
 <img src="https://skillicons.dev/icons?i=c,python&theme=dark" />
 </div>
 
-🔧 **Aprendendo agora:** Java
+ **Aprendendo agora:** Java
  
-### `### `> stats`
+### `> stats`
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sudo-veeCtoria&show_icons=true&hide_border=true&count_private=true&bg_color=170027&title_color=b388ff&text_color=d1b3ff&icon_color=9d4edd" width="48%"/>
@@ -41,7 +41,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-veeCtoria&layout=compact&hide_border=true&bg_color=170027&title_color=b388ff&text_color=d1b3ff" width="55%"/>
 </div>
 
-### `> contact --list`
+### `> contact me`
 
 <div align="center">
 
