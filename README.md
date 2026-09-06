@@ -32,14 +32,7 @@
  
 ### `> stats`
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sudo-veeCtoria&show_icons=true&hide_border=true&count_private=true&bg_color=170027&title_color=b388ff&text_color=d1b3ff&icon_color=9d4edd" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudo-veeCtoria&hide_border=true&background=170027&ring=b388ff&fire=9d4edd&currStreakNum=d1b3ff&sideNums=d1b3ff&currStreakLabel=b388ff&sideLabels=b388ff&dates=9d4edd" width="48%"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-veeCtoria&layout=compact&hide_border=true&bg_color=170027&title_color=b388ff&text_color=d1b3ff" width="55%"/>
-</div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudo-veeCtoria&hide_border=true&background=170027&ring=b388ff&fire=9d4edd&currStreakNum=d1b3ff&sideNums=d1b3ff&currStreakLabel=b388ff&sideLabels=b388ff&dates=9d4edd" width="60%"/> </div>
 
 ### `> contact me`
 
