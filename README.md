@@ -53,7 +53,3 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:170027&height=100&section=footer"/>
 </div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,100:0f2027&height=100&section=footer"/>
-</div>
