@@ -30,24 +30,28 @@
 
 🔧 **Aprendendo agora:** Java
  
-### `> stats`
+### `### `> stats`
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sudo-veeCtoria&show_icons=true&theme=synthwave&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudo-veeCtoria&theme=synthwave&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sudo-veeCtoria&show_icons=true&hide_border=true&count_private=true&bg_color=170027&title_color=b388ff&text_color=d1b3ff&icon_color=9d4edd" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudo-veeCtoria&hide_border=true&background=170027&ring=b388ff&fire=9d4edd&currStreakNum=d1b3ff&sideNums=d1b3ff&currStreakLabel=b388ff&sideLabels=b388ff&dates=9d4edd" width="48%"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-veeCtoria&layout=compact&theme=synthwave&hide_border=true" width="55%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-veeCtoria&layout=compact&hide_border=true&bg_color=170027&title_color=b388ff&text_color=d1b3ff" width="55%"/>
 </div>
 
 ### `> contact --list`
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat&logo=instagram&logoColor=00ff9c)](https://instagram.com/type0vee)
-[![Email](https://img.shields.io/badge/-Email-black?style=flat&logo=gmail&logoColor=00ff9c)](mailto:veetoria.py)
+[![Instagram](https://img.shields.io/badge/-Instagram-170027?style=flat&logo=instagram&logoColor=b388ff)](https://instagram.com/SEU_INSTAGRAM)
+[![Email](https://img.shields.io/badge/-Email-170027?style=flat&logo=gmail&logoColor=b388ff)](mailto:SEU_EMAIL)
 
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:170027&height=100&section=footer"/>
 </div>
 
 <div align="center">
