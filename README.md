@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Seu próprio gif/imagem aqui -->
-<img src="./assets/vibe.gif" width="380" alt="hacking vibes"/>
+<img src="./assets/lain.gif" width="380" alt="hacking vibes"/>
 
 </div>
 
