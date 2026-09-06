@@ -45,8 +45,18 @@
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/-Instagram-170027?style=flat&logo=instagram&logoColor=b388ff)](https://instagram.com/SEU_INSTAGRAM)
-[![Email](https://img.shields.io/badge/-Email-170027?style=flat&logo=gmail&logoColor=b388ff)](mailto:SEU_EMAIL)
+[![Instagram](https://img.shields.io/badge/-Instagram-170027?style=flat&logo=instagram&logoColor=b388ff)](https://instagram.com/type0vee)
+[![Email](https://img.shields.io/badge/-Email-170027?style=flat&logo=gmail&logoColor=b388ff)](mailto:veetoria.py)
+
+
+<br/>
+
+<!-- Seu próprio gif/imagem aqui -->
+<img src="./assets/cat.gif" width="380" alt="hacking vibes"/>
+
+</div>
+
+<br/>
 
 </div>
 
