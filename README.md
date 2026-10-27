@@ -1,16 +1,16 @@
 <div align="center">
 
-<!-- Banner estilo terminal - roxo escuro -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:170027,100:6a0dad&height=200&section=header&text=%20Hi+guys,+Im+Veec+^^&fontSize=36&fontColor=b388ff&animation=fadeIn&desc=connecting%20to%20the%20server...&descAlignY=75&descSize=16" width="100%"/>
 
-<!-- Efeito de digitação (typing animation) - frases da Lain -->
+
 <a href="https://github.com/sudo-veeCtoria">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3500&pause=1000&color=B388FF&center=true&vCenter=true&width=650&lines=Conectar-se+ao+mundo+significa+desconectar-se+de+si+mesmo;N%C3%A3o+importa+onde+voc%C3%AA+v%C3%A1%2C+todos+estamos+conectados" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Seu próprio gif/imagem aqui -->
+
 <img src="./assets/lain.gif" width="380" alt="hacking vibes"/>
 
 </div>
@@ -20,7 +20,6 @@
 ### `> whoami`
 
 - estudante de Ciencia e Tecnologia na UFSC (Universidade Federal de SC) 
-- focada em programação e segurança ofensiva(red team)
 
 ### `> I code with`
  
@@ -44,7 +43,6 @@
 
 <br/>
 
-<!-- Seu próprio gif/imagem aqui -->
 <img src="./assets/cat.gif" width="380" alt="hacking vibes"/>
 
 </div>
